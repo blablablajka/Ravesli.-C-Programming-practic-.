@@ -1,12 +1,5 @@
-#include<cmath>
 #include <iostream>
-#include <numeric>
-#include <math.h>
-#include <stdio.h>
 #include <vector>
-#include <ctime>
-#include <fstream>
-
 
 using namespace std;
 
