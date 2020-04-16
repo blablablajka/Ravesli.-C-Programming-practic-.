@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-
+//http://cppstudio.com/post/4885/
 using namespace std;
 
 int main(){
