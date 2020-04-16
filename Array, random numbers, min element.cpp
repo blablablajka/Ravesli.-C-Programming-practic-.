@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+// http://cppstudio.com/post/1443/
+
 float two_dot(float n)
 {
     string f = to_string(n);
